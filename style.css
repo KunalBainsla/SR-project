@@ -47,6 +47,8 @@ a {
   justify-content: center;
   flex-direction: column;
   background-image: url("AR-bg.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
   color: #ffffff;
   padding: 40px 0px;
   font-weight: bold;
